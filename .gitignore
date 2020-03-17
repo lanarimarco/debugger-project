@@ -1,3 +1,5 @@
 /target/
 .DS_Store
 /src/main/java/playground/
+/dsl-debugger/target/
+/dsl-debuggee/target/
