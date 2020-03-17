@@ -4,14 +4,14 @@
 
     <parent>
         <groupId>com.smeup</groupId>
-        <artifactId>dsl-project</artifactId>
+        <artifactId>dsl-debugger</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     
-    <artifactId>dsl-debugger</artifactId>
+    <artifactId>dsl-debugger-core</artifactId>
     <packaging>jar</packaging>
 
-    <name>dsl-debugger</name>
+    <name>dsl-debugger-core</name>
   
     <properties>
         <build.version>${project.version}</build.version>

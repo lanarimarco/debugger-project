@@ -4,7 +4,7 @@
 
     <parent>
         <groupId>com.smeup</groupId>
-        <artifactId>dsl-project</artifactId>
+        <artifactId>dsl-debugger</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
@@ -24,7 +24,7 @@
     <dependencies>
         <dependency>
             <groupId>com.smeup</groupId>
-            <artifactId>dsl-debugger</artifactId>
+            <artifactId>dsl-debugger-core</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
